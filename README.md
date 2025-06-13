@@ -44,7 +44,8 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"                               alt="PyTorch"    width="40" height="40" />
 
   <!-- Row 2 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40" />
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="100"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"                         alt="Pandas"      width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"                           alt="NumPy"       width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"                       alt="SQLite"      width="40" height="40" />
