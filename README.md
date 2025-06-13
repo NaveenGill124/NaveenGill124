@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" alt="Waving Hand"/>
+  <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" alt="Waving Hand"/>
+
   <h1>Hi 👋, I'm Naveen Gill</h1>
   <h3><em>M.Tech Student @ NIT Calicut | Researcher in LLMs, NLP & Deep Learning</em></h3>
   <p>Turning cutting-edge research into real-world AI solutions 🚀</p>
